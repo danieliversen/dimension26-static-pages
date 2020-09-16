@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Your privacy is important to us. It is Dimension 26's policy to respect your privacy regarding any information we may collect from you across our website, http://getflow.me, and other sites we own and operate.
+Your privacy is important to us. It is Dimension 26's policy to respect your privacy regarding any information we may collect from you across our website, http://getflow.me, http://www.dimension26.com and other sites we own and operate.
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
@@ -15,3 +15,7 @@ You are free to refuse our request for your personal information, with the under
 Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
 This policy is effective as of 16 September 2020.
+
+# Support details
+
+If you need any help, shoot us an email on support@dimension26.com
